@@ -1,0 +1,22 @@
+{
+  "name": "dotcodecommunity",
+  "version": "1.0.0",
+  "description": "tech community for college cse dept",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThayalanGR/dotcodecommunity.git"
+  },
+  "keywords": [
+    "dcc"
+  ],
+  "author": "ThayalanGR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThayalanGR/dotcodecommunity/issues"
+  },
+  "homepage": "https://github.com/ThayalanGR/dotcodecommunity#readme"
+}
