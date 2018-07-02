@@ -4,31 +4,113 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
     <title>DotCodeCommunity</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/landing.css">
 </head>
 <body>
-    <div id="app">
-            {{ message }}
+<div class="container-1">
+    <div class="logoContainer">
+        <img class="mainLogo" src="assets/images/dccLogo.svg" alt="Dot">
+        <h1 class="headLogo">CODE COMMUNITY</h1>
+        <h6>Saranathan College of Engineering</h6>
     </div>
+    <ul class="mainMenu">
+        <li><a href="#" >Register</a></li>
+        <li><a href="#" >Login</a></li>
+        <li><a href="#" >About</a></li>
+    </ul>
+</div>
 
-    <script src="https://www.gstatic.com/firebasejs/5.1.0/firebase.js"></script>
+<div class="container-2">
+    <h1 class="containerHeading">We're smarter together</h1>
+    <ul class="content">
+        <li>
+            <h2>Belong</h2>
+            <article>
+                We're developers just like you.
+                Join the community and feel at home.
+            </article>
+        </li>
+        <li>
+            <h2>Get insights</h2>
+            <article>
+                Meet like-minded enthusiasts, ask for help and have
+                your code reviewed. We're here for each other.
+            </article>
+        </li>
+        <li>
+            <h2>Be inspired</h2>
+            <article>
+                Compare solutions and learn tips from the best programmers.
+            </article>
+        </li>
+    </ul>
+    <button href="#">JOIN THE COMMUNITY</button>
+</div>
+
+<div class="conatiner-3">
+    <div class="block-1"> 
+        <img src="assets/images/dccLogo.svg" alt="Dot">
+        <h1 class="headLogo">CODE COMMUNITY</h1>
+        <h6>Saranathan College of Engineering</h6>
+        <blockquote>© 2018 dotCodeCommunity</blockquote>
+    </div>
+    <div class="block-2">
+        <ul>
+            <li><a href="http://"><i class="fab fa-facebook" alt="facebook"></i></a></li>
+            <li><a href="http://"><i class="fab fa-github" alt="Git"></i></a></li>
+            <li><a href="http://"><i class="fab fa-instagram" alt="Instagram"></i></a></li>
+            <li><a href="http://"><i class="fab fa-youtube" alt="Youtube"></i></a></li>
+        </ul>
+    </div>
+    <div class="block-3">
+        <ul>
+            <li><a href="#">About</a></li>
+            <li><a href="#">About dCC</a></li>
+            <li><a href="#">Support Us</a></li>
+            <li><a href="#">Team</a></li>
+        </ul>
+    </div>
+    <div class="block-4">
+        <h5>Developed by :-</h5>
+        <h6>
+            Thayalan G R <br>
+            (C.S.E Dept - SCE)
+        </h6>
+        <ul>
+            <li><a href="http://"><i class="fab fa-facebook" alt="facebook"></i></a></li>
+            <li><a href="http://"><i class="fab fa-github" alt="Git"></i></a></li>
+            <li><a href="http://"><i class="fab fa-instagram" alt="Instagram"></i></a></li>
+            <li><a href="http://"><i class="fab fa-youtube" alt="Youtube"></i></a></li>
+        </ul>
+
+    </div>
+    <div class="block-5">
+        <blockquote>
+            Released under the MIT License<br>
+            Copyright © 2018-2020 ThayalanGR
+        </blockquote>
+    </div>
+</div>
+    
+    <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
     <script>
-        // Initialize Firebase
-        var config = {
-        apiKey: "AIzaSyA5C_tSefs6l3UJ5izNrC_dh38fmREaNjk",
-        authDomain: "dotcc-8b08d.firebaseapp.com",
-        databaseURL: "https://dotcc-8b08d.firebaseio.com",
-        projectId: "dotcc-8b08d",
-        storageBucket: "dotcc-8b08d.appspot.com",
-        messagingSenderId: "1085133126148"
-        };
-        firebase.initializeApp(config);
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyA8opxTM7OEyN3_57FRg21J-M9_VRN3-No",
+        authDomain: "dotcc-ba4bf.firebaseapp.com",
+        databaseURL: "https://dotcc-ba4bf.firebaseio.com",
+        projectId: "dotcc-ba4bf",
+        storageBucket: "dotcc-ba4bf.appspot.com",
+        messagingSenderId: "833919594884"
+      };
+      firebase.initializeApp(config);
     </script>
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-    
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/landing.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
