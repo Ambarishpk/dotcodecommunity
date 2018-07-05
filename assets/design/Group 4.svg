@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2574 -1403 638 107">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #7093ab;
+        stroke-width: 33px;
+      }
+
+      .cls-2 {
+        stroke: #4aaaee;
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        fill: #95989a;
+        font-size: 54px;
+        font-family: TrajanPro-Regular, Trajan Pro;
+      }
+
+      .cls-4 {
+        fill: #f6f6f6;
+        font-size: 28px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-2637 -1427)">
+    <g id="Group_3" data-name="Group 3" transform="translate(39 8)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 -8)">
+        <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(24 24)">
+          <circle class="cls-5" cx="44" cy="44" r="44"/>
+          <circle class="cls-6" cx="44" cy="44" r="27.5"/>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(36.138 34.441)">
+          <ellipse class="cls-5" cx="32.621" cy="32.068" rx="32.621" ry="32.068"/>
+          <ellipse class="cls-6" cx="32.621" cy="32.068" rx="27.621" ry="27.068"/>
+        </g>
+      </g>
+      <text id="Code_Community" data-name="Code Community" class="cls-3" transform="translate(128 82)"><tspan x="0" y="0">Code Community</tspan></text>
+    </g>
+    <text id="Saranathan_College_of_Engineering" data-name="Saranathan College of Engineering" class="cls-4" transform="translate(230 124)"><tspan x="0" y="0">Saranathan College of Engineering</tspan></text>
+  </g>
+</svg>

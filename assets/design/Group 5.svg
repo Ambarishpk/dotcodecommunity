@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2623 -1236 136 245">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4aaaee;
+        font-size: 35px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-2637 -1427)">
+    <text id="_Login_" data-name="  Login " class="cls-1" transform="translate(15 327)"><tspan x="0" y="0" xml:space="preserve">  Login </tspan></text>
+    <text id="_Register" data-name=" Register" class="cls-1" transform="translate(15 229)"><tspan x="0" y="0" xml:space="preserve"> Register</tspan></text>
+    <text id="_About" data-name="  About" class="cls-1" transform="translate(14 427)"><tspan x="0" y="0" xml:space="preserve">  About</tspan></text>
+  </g>
+</svg>

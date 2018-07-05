@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2131.7 -1091 1172 395.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 44px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2 {
+        fill: #e4ef50;
+        font-size: 55px;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #4aaaee;
+        stroke: #95989a;
+      }
+
+      .cls-4 {
+        fill: #f9fdff;
+        font-size: 33px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(-2603 -1360)">
+    <text id="_STEP_UP_YOUR_CODING_GAME_The_new_way_to_improve_your_programming_Skills_while_having_fun_and_getting_noticed_" data-name="
+          STEP UP YOUR CODING GAME
+    The new way to improve your programming   
+        Skills while having fun and getting noticed                      " class="cls-1" transform="translate(471.3 269)"><tspan x="0" y="47"></tspan><tspan x="0" y="117" xml:space="preserve">          </tspan><tspan class="cls-2" y="117">STEP UP YOUR CODING GAME</tspan><tspan x="0" y="178" xml:space="preserve">    The new way to improve your programming   </tspan><tspan x="0" y="236" xml:space="preserve">        Skills while having fun and getting noticed                      </tspan></text>
+    <g id="Group_16" data-name="Group 16" transform="translate(136.3 -5)">
+      <g id="Rectangle_2" data-name="Rectangle 2" class="cls-3" transform="translate(471.4 583.46)">
+        <rect class="cls-5" width="352.2" height="85.84" rx="31"/>
+        <rect class="cls-6" x="0.5" y="0.5" width="351.2" height="84.84" rx="30.5"/>
+      </g>
+      <text id="GET_STARTED" data-name="GET STARTED" class="cls-4" transform="translate(540.634 635)"><tspan x="0" y="0">GET STARTED</tspan></text>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(547.9 6)">
+      <g id="Group_18" data-name="Group 18" transform="translate(504.4 572.46)">
+        <g id="Rectangle_2-2" data-name="Rectangle 2" class="cls-3">
+          <rect class="cls-5" width="220.8" height="85.84" rx="31"/>
+          <rect class="cls-6" x="0.5" y="0.5" width="219.8" height="84.84" rx="30.5"/>
+        </g>
+        <text id="LOGIN" class="cls-4" transform="translate(51.232 56.54)"><tspan x="0" y="0">LOGIN</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

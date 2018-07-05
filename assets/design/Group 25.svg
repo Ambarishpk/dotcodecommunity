@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2255 -248 1301 1001.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+        font-size: 77px;
+        font-family: SegoeUIBlack-Italic, Segoe UI;
+        font-style: italic;
+      }
+
+      .cls-2 {
+        fill: #f6f600;
+        font-size: 69px;
+      }
+
+      .cls-2, .cls-5 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 44px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        fill: #e4ef50;
+        stroke: #95989a;
+      }
+
+      .cls-5 {
+        fill: #f9fdff;
+        font-size: 36px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(-2571 -1354)">
+    <text id="We_re_smarter_together" data-name="We&apos;re smarter together" class="cls-1" transform="translate(316 1189)"><tspan x="0" y="0">We&apos;re smarter together</tspan></text>
+    <g id="Group_23" data-name="Group 23" transform="translate(-73)">
+      <g id="Group_20" data-name="Group 20" transform="translate(-38)">
+        <text id="Belong" class="cls-2" transform="translate(484 1300)"><tspan x="0" y="0">Belong</tspan></text>
+        <text id="We_re_developers_just_like_you._Join_the_community_and_feel_at_home." data-name="We&apos;re developers just like you.
+Join the community and feel at home." class="cls-3" transform="translate(557 1392)"><tspan x="0" y="0">We&apos;re developers just like you.</tspan><tspan x="0" y="58">Join the community and feel at home.</tspan></text>
+      </g>
+      <g id="Group_21" data-name="Group 21" transform="translate(-34 273)">
+        <text id="Get_insights" data-name="Get insights" class="cls-2" transform="translate(480 1296)"><tspan x="0" y="0">Get insights</tspan></text>
+        <text id="Meet_like-minded_enthusiasts_ask_for_help_and_have_your_code_reviewed._We_re_here_for_each_other." data-name="Meet like-minded enthusiasts, ask for help and have
+ your code reviewed. We&apos;re here for each other." class="cls-3" transform="translate(523 1399)"><tspan x="0" y="0">Meet like-minded enthusiasts, ask for help and have</tspan><tspan x="0" y="58" xml:space="preserve"> your code reviewed. We&apos;re here for each other.</tspan></text>
+      </g>
+      <g id="Group_22" data-name="Group 22" transform="translate(-22 527)">
+        <text id="Be_inspired" data-name="Be inspired" class="cls-2" transform="translate(468 1301)"><tspan x="0" y="0">Be inspired</tspan></text>
+        <text id="Compare_solutions_and_learn_tips_from_the_best_programmers." data-name="Compare solutions and learn tips from the best programmers." class="cls-3" transform="translate(512 1399)"><tspan x="0" y="0">Compare solutions and learn tips from the best programmers.</tspan></text>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24" transform="translate(82.3 1423.84)">
+      <g id="Rectangle_2" data-name="Rectangle 2" class="cls-4" transform="translate(496.4 589.46)">
+        <rect class="cls-6" width="600.3" height="94.3" rx="31"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="599.3" height="93.3" rx="30.5"/>
+      </g>
+      <text id="JOIN_THE_COMMUNITY" data-name="JOIN THE COMMUNITY" class="cls-5" transform="translate(597.7 649.101)"><tspan x="0" y="0">JOIN THE COMMUNITY</tspan></text>
+    </g>
+  </g>
+</svg>
